@@ -1,0 +1,15 @@
+.info-image {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  height: 300px;
+  width: 300px;
+  transition: width .2s, height .2s;
+}
+.info-image:hover {
+  width: 320px;
+  height: 320px;
+}
+
+.container {
+  color: white;
+}
